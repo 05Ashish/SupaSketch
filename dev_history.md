@@ -1,2 +1,3 @@
 - [2024-12-13T10:00:00] Initial commit: Set up Next.js project structure
 - [2024-12-13T14:30:00] Add ESLint and Prettier configurations
+- [2024-12-14T09:15:00] Configure Tailwind CSS and PostCSS
