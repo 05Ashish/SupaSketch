@@ -2,3 +2,4 @@
 - [2024-12-13T14:30:00] Add ESLint and Prettier configurations
 - [2024-12-14T09:15:00] Configure Tailwind CSS and PostCSS
 - [2024-12-14T11:45:00] Setup initial public assets and favicon
+- [2024-12-15T10:20:00] Create root layout and global CSS
