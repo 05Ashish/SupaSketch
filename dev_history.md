@@ -4,3 +4,4 @@
 - [2024-12-14T11:45:00] Setup initial public assets and favicon
 - [2024-12-15T10:20:00] Create root layout and global CSS
 - [2024-12-15T16:00:00] Implement navigation bar component
+- [2024-12-16T09:30:00] Add dark mode toggle to navbar
