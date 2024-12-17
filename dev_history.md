@@ -6,3 +6,4 @@
 - [2024-12-15T16:00:00] Implement navigation bar component
 - [2024-12-16T09:30:00] Add dark mode toggle to navbar
 - [2024-12-16T13:45:00] Setup canvas drawing context
+- [2024-12-17T11:00:00] Implement basic brush tool
