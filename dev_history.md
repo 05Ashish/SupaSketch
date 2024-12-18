@@ -9,3 +9,4 @@
 - [2024-12-17T11:00:00] Implement basic brush tool
 - [2024-12-17T15:20:00] Add color picker component
 - [2024-12-18T10:10:00] Implement stroke width adjustment
+- [2024-12-18T14:50:00] Add eraser tool functionality
