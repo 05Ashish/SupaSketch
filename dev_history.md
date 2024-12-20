@@ -13,3 +13,4 @@
 - [2024-12-19T09:40:00] Create toolbar layout
 - [2024-12-19T13:15:00] Implement clear canvas feature
 - [2024-12-20T11:30:00] Add undo and redo history state
+- [2024-12-20T16:45:00] Fix bug in undo history index
