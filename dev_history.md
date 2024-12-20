@@ -12,3 +12,4 @@
 - [2024-12-18T14:50:00] Add eraser tool functionality
 - [2024-12-19T09:40:00] Create toolbar layout
 - [2024-12-19T13:15:00] Implement clear canvas feature
+- [2024-12-20T11:30:00] Add undo and redo history state
