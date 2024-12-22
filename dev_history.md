@@ -16,3 +16,4 @@
 - [2024-12-20T16:45:00] Fix bug in undo history index
 - [2024-12-21T10:00:00] Implement save to image functionality
 - [2024-12-21T14:20:00] Add shapes tool (rectangle, circle)
+- [2024-12-22T09:50:00] Enhance brush rendering performance
