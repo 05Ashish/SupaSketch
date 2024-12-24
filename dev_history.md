@@ -18,3 +18,4 @@
 - [2024-12-21T14:20:00] Add shapes tool (rectangle, circle)
 - [2024-12-22T09:50:00] Enhance brush rendering performance
 - [2024-12-23T11:10:00] Implement pan and zoom on canvas
+- [2024-12-24T10:30:00] Add layer support to canvas
