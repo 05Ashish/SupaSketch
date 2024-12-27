@@ -21,3 +21,4 @@
 - [2024-12-24T10:30:00] Add layer support to canvas
 - [2024-12-25T14:00:00] Create layers panel component
 - [2024-12-26T09:45:00] Implement layer visibility toggle
+- [2024-12-27T11:20:00] Add text tool functionality
