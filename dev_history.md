@@ -27,3 +27,4 @@
 - [2024-12-29T11:00:00] Add keyboard shortcuts for tools
 - [2024-12-30T09:20:00] Refactor canvas state management
 - [2024-12-31T10:40:00] Optimize re-renders in toolbar
+- [2025-01-01T12:00:00] Update README with setup instructions
