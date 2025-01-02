@@ -28,3 +28,4 @@
 - [2024-12-30T09:20:00] Refactor canvas state management
 - [2024-12-31T10:40:00] Optimize re-renders in toolbar
 - [2025-01-01T12:00:00] Update README with setup instructions
+- [2025-01-02T09:30:00] Add responsive design for mobile
